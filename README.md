@@ -41,14 +41,24 @@
 - This year, the first 50,000 participants can earn a T-shirt.
 ---
 
-Steps for adding your name below
+Steps for adding coomit below
 
     1. Fork this repo
-    2. go to folder in which you want to contribute
+    2. go to folder user (or create folder if you like) in which you want to contribute
     3. then add your file with your username or file name should be your username ----->
     4. username.json
-    5. Make pull request
-
+    5. this file should have field -> Name,Occupation,UserName,StaredTheRepo,FavouriteQuote
+    6. for example
+```json
+{
+    "Name":"Keshav Singh",
+    "Occupation":"Junior Associate - IT",
+    "UserName" : "keshavsingh4522",
+    "StaredTheRepo":true,
+    "FavouriteQuote":"keep patience and be happy"
+}
+```   
+- then create pull request.
 
 
 <!-- markdownlint-enable -->
