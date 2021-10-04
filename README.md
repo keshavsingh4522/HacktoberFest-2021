@@ -65,7 +65,7 @@ Steps for adding coomit below
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Contributions of of any doc type is acceptable. but that should be meaning full!
+Contributions of any doc type is acceptable. but that should be meaningful!
 
 ## License
 
