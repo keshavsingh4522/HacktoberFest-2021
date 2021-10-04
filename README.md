@@ -54,7 +54,7 @@ Steps for adding coomit below
     "Name":"Keshav Singh",
     "Occupation":"Junior Associate - IT",
     "UserName" : "keshavsingh4522",
-    "StaredTheRepo":true,
+    "StarredTheRepo":true,
     "FavouriteQuote":"keep patience and be happy"
 }
 ```   
