@@ -22,50 +22,52 @@
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
-
 > Upload your code in this repository to particular section if folder is not present then create folder.
 > some more repos for contribution
 
 ## Rules
+
 - Motivation Quotes are acceptable.
 - Don't use filthy words and be welcome for beginners and other people in this community.
 
 ---
 
 ## Github Contribution Rules
+
 - Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
 - The pull request must contain commits you made yourself.
 - If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
 - If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 - To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 - This year, the first 50,000 participants can earn a T-shirt.
+
 ---
 
-Steps for adding coomit below
+Steps for adding commit below
 
     1. Fork this repo
-    2. go to folder user (or create folder if you like) in which you want to contribute
-    3. then add your file with your username or file name should be your username ----->
-    4. username.json
-    5. this file should have field -> Name,Occupation,UserName,StaredTheRepo,FavouriteQuote
-    6. for example
+    2. Go to folder user (or create folder if you like) in which you want to contribute
+    3. Then add your file with your username or file name should be your username like `username.json`
+    4. This file should have fields -> Name,Occupation,UserName,StaredTheRepo,FavouriteQuote
+    5. For example
+
 ```json
 {
-    "Name":"Keshav Singh",
-    "Occupation":"Junior Associate - IT",
-    "UserName" : "keshavsingh4522",
-    "StarredTheRepo":true,
-    "FavouriteQuote":"keep patience and be happy"
+  "Name": "Keshav Singh",
+  "Occupation": "Junior Associate - IT",
+  "UserName": "keshavsingh4522",
+  "StarredTheRepo": true,
+  "FavouriteQuote": "keep patience and be happy"
 }
-```   
-- then create pull request.
+```
 
+    7. Then create pull request.
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Contributions of of any doc type is acceptable. but that should be meaning full!
+Contributions of any doc type is acceptable. but that should be meaningful!
 
 ## License
 
