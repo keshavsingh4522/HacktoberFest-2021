@@ -2,7 +2,7 @@
 
 
 - [ ] 🚀 Added Details
-- [ ] 🌟 stared the repo
+- [ ] 🌟 Stared the repo
 - [ ] 🐛 Grammatical Error
 - [ ] 📝 Documentation Update
 - [ ] 🚩 Other
