@@ -1,7 +1,0 @@
-{
-    "Name":"Elridge Fernandes",
-    "Occupation":"student - Don Bosco College of Engineering",
-    "UserName" : "elridge1311",
-    "StaredTheRepo":true,
-    "FavouriteQuote":"The purpose of our lives is to be happy."
-}
