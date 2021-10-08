@@ -36,12 +36,12 @@
 - Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
 - The pull request must contain commits you made yourself.
 - If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
-- If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
+- If a maintainer reports behaviour that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 - To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 - This year, the first 50,000 participants can earn a T-shirt.
 ---
 
-Steps for adding coomit below
+Steps for adding commit below
 
     1. Fork this repo
     2. go to folder user (or create folder if you like) in which you want to contribute
@@ -58,17 +58,17 @@ Steps for adding coomit below
     "FavouriteQuote":"keep patience and be happy"
 }
 ```   
-- then create pull request.
+- then create a pull request.
 
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Contributions of of any doc type is acceptable. but that should be meaning full!
+Contributions of any doc type are acceptable, but that should be meaning full!
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Keshav Singh](https://www.linkedin.com/in/keshavsingh4522/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Keshav Singh](https://www.linkedin.com/in/keshavsingh4522/) has waived all copyright and related or neighbouring rights to this work.
