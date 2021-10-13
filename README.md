@@ -41,7 +41,7 @@
 - This year, the first 50,000 participants can earn a T-shirt.
 ---
 
-Steps for adding coomit below
+Steps for adding commit below
 
     1. Fork this repo
     2. go to folder user (or create folder if you like) in which you want to contribute
@@ -59,6 +59,30 @@ Steps for adding coomit below
 }
 ```   
 - then create pull request.
+
+### Steps
+
+1. Fork the repo by clicking on the fork button
+2. Make a clone of the repo 
+```
+git clone https://github.com/keshavsungh4522/HacktoberFest-2021
+```
+3. Open the project folder in your text editor of choice
+4. Make changes that you want to make
+5. Add those files to track by git
+```
+git add <filename>
+```
+6. Commit those changes
+```
+git commit -m "add your commit message here"
+```
+7. Push those changes to your forked copy of this repo
+```
+git push
+```
+8. Then make a pull request to the original repo owner
+9. If everything looks good then the repo owner will merge your pull request
 
 
 <!-- markdownlint-enable -->
