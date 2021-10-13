@@ -27,7 +27,7 @@
 > some more repos for contribution
 
 ## Rules
-- Motivation Quotes are acceptable.
+- Motivation quotes are acceptable.
 - Don't use filthy words and be welcome for beginners and other people in this community.
 
 ---
@@ -41,13 +41,13 @@
 - This year, the first 50,000 participants can earn a T-shirt.
 ---
 
-Steps for adding coomit below
+Steps for adding commit below
 
     1. Fork this repo
-    2. go to folder user (or create folder if you like) in which you want to contribute
-    3. then add your file with your username or file name should be your username ----->
-    4. username.json
-    5. this file should have field -> Name,Occupation,UserName,StaredTheRepo,FavouriteQuote
+    2. Go to folder user (or create folder if you like) in which you want to contribute
+    3. Then add your file with your username or file name should be your username ----->
+    4. Username.json
+    5. This file should have field -> Name,Occupation,UserName,StaredTheRepo,FavouriteQuote
     6. for example
 ```json
 {
@@ -58,14 +58,14 @@ Steps for adding coomit below
     "FavouriteQuote":"keep patience and be happy"
 }
 ```   
-- then create pull request.
+- Then create pull request.
 
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Contributions of of any doc type is acceptable. but that should be meaning full!
+Contributions of  any doc type is acceptable. but that should be meaning full!
 
 ## License
 
