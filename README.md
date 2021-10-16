@@ -27,7 +27,7 @@
 > some more repos for contribution
 
 ## Rules
-- Motivation Quotes are acceptable.
+- Motivation Quotes are acceptable like The way to get started is to quit talking and begin doing.
 - Don't use filthy words and be welcome for beginners and other people in this community.
 
 ---
