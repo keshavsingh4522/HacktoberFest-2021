@@ -1,3 +1,7 @@
 {
-    
+    "Name":"",
+    "Occupation":"",
+    "UserName" : "",
+    "StarredTheRepo":false,
+    "FavouriteQuote":""
 }
