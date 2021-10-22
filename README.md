@@ -27,7 +27,7 @@
 > some more repos for contribution
 
 ## Rules
-- Motivation Quotes are acceptable.
+- Motivational Quotes are acceptable.
 - Don't use filthy words and be welcome for beginners and other people in this community.
 
 ---
@@ -65,7 +65,7 @@ Steps for adding coomit below
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Contributions of of any doc type is acceptable. but that should be meaning full!
+Contributions of any doc type is acceptable. but they should be meaningful!
 
 ## License
 
