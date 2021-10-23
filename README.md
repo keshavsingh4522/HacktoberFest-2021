@@ -41,7 +41,7 @@
 - This year, the first 50,000 participants can earn a T-shirt.
 ---
 
-Steps for adding coomit below
+Steps for adding commit are as follows:
 
     1. Fork this repo
     2. go to folder user (or create folder if you like) in which you want to contribute
@@ -65,7 +65,7 @@ Steps for adding coomit below
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Contributions of of any doc type is acceptable. but that should be meaning full!
+Contributions of any document type is acceptable if it is correct.
 
 ## License
 
