@@ -27,7 +27,7 @@
 > some more repos for contribution
 
 ## Rules
-- Motivation Quotes are acceptable.
+- Motivational Quotes are acceptable.
 - Don't use filthy words and be welcome for beginners and other people in this community.
 
 ---
@@ -51,11 +51,11 @@ Steps for adding coomit below
     6. for example
 ```json
 {
-    "Name":"Keshav Singh",
-    "Occupation":"Junior Associate - IT",
-    "UserName" : "keshavsingh4522",
+    "Name":"Aiden Yin",
+    "Occupation":"Student",
+    "UserName" : "dundun007",
     "StarredTheRepo":true,
-    "FavouriteQuote":"keep patience and be happy"
+    "FavouriteQuote":"an apple a day keeps the doctor away"
 }
 ```   
 - then create pull request.
