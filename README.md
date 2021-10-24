@@ -27,7 +27,7 @@
 > some more repos for contribution
 
 ## Rules
-- Motivation Quotes are acceptable.
+- Motivational Quotes are acceptable.
 - Don't use filthy words and be welcome for beginners and other people in this community.
 
 ---
