@@ -41,7 +41,7 @@
 - This year, the first 50,000 participants can earn a T-shirt.
 ---
 
-Steps for adding coomit below
+Steps for adding commit below
 
     1. Fork this repo
     2. go to folder user (or create folder if you like) in which you want to contribute
