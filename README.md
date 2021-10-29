@@ -41,14 +41,14 @@
 - This year, the first 50,000 participants can earn a T-shirt.
 ---
 
-Steps for adding coomit below
+Steps for adding commit below
 
-    1. Fork this repo
-    2. go to folder user (or create folder if you like) in which you want to contribute
-    3. then add your file with your username or file name should be your username ----->
+    1. Fork this repo.
+    2. Go to folder user (or create folder if you like) in which you want to contribute
+    3. Then add your file with your username or file name should be your username ----->
     4. username.json
-    5. this file should have field -> Name,Occupation,UserName,StaredTheRepo,FavouriteQuote
-    6. for example
+    5. This file should have following fields -> {Name,Occupation,UserName,StaredTheRepo,FavouriteQuote}.
+    6. For Example:
 ```json
 {
     "Name":"Keshav Singh",
