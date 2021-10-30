@@ -12,9 +12,9 @@
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/keshavsingh4522" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/open-for-everyone/HacktoberFest2021/pulls"><img src="https://img.shields.io/github/issues-pr/open-for-everyone/HacktoberFest2021" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/open-for-everyone/HacktoberFest2021/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/open-for-everyone/HacktoberFest2021?color=2b9348"></a>
-<a href="https://github.com/open-for-everyone/HacktoberFest2021/blob/master/LICENSE"><img src="https://img.shields.io/github/license/open-for-everyone/HacktoberFest2021?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/open-for-everyone/HacktoberFest-2021/pulls"><img src="https://img.shields.io/github/issues-pr/open-for-everyone/HacktoberFest-2021" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/open-for-everyone/HacktoberFest-2021/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/open-for-everyone/HacktoberFest-2021?color=2b9348"></a>
+<a href="https://github.com/open-for-everyone/HacktoberFest-2021/blob/master/LICENSE"><img src="https://img.shields.io/github/license/open-for-everyone/HacktoberFest-2021?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
@@ -27,7 +27,7 @@
 > some more repos for contribution
 
 ## Rules
-- Motivation Quotes is acceptable.
+- Motivation Quotes are acceptable.
 - Don't use filthy words and be welcome for beginners and other people in this community.
 
 ---
@@ -41,14 +41,24 @@
 - This year, the first 50,000 participants can earn a T-shirt.
 ---
 
-Steps for adding your name below
+Steps for adding coomit below
 
     1. Fork this repo
-    2. go to folder in which you want to contribute
+    2. go to folder user (or create folder if you like) in which you want to contribute
     3. then add your file with your username or file name should be your username ----->
     4. username.json
-    5. Make pull request
-
+    5. this file should have field -> Name,Occupation,UserName,StaredTheRepo,FavouriteQuote
+    6. for example
+```json
+{
+    "Name":"Keshav Singh",
+    "Occupation":"Junior Associate - IT",
+    "UserName" : "keshavsingh4522",
+    "StarredTheRepo":true,
+    "FavouriteQuote":"keep patience and be happy"
+}
+```   
+- then create pull request.
 
 
 <!-- markdownlint-enable -->
